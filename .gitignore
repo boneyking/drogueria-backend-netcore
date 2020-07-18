@@ -2,6 +2,7 @@
 /.vs
 /Drogueria.Api/obj
 /Drogueria.Api/bin
+/Drogueria.Api/bin/Debug/netcoreapp3.1
 /Drogueria.Core.App/obj
 /Drogueria.Core.App/bin
 /Drogueria.Core.Dominio/obj
@@ -16,4 +17,4 @@
 *.targets
 [Bb]in/
 [Oo]bj/
-.vs/Drogueria
+/.vs/Drogueria
