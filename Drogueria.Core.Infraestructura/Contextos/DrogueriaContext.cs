@@ -42,7 +42,18 @@ namespace Drogueria.Core.Infraestructura.Contextos
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(Configuration.GetConnectionString("Desarrollo")).EnableSensitiveDataLogging(true);
+            var builder = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json");
+
+            var configuration = builder.Build();
+            var connectionString = configuration.GetConnectionString("Desarrollo");
+
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer(connectionString).EnableSensitiveDataLogging(true);
+            }
+            
         }
 
         public Usuario CrearUsuarioAdministrador()
@@ -63,7 +74,14 @@ namespace Drogueria.Core.Infraestructura.Contextos
         {
             var proveedores = new List<Proveedor>();
 
-            var jsonProveedores = File.ReadAllText(Configuration.GetSection("JsonDataInicial.Proveedores").Value);
+            var builder = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json");
+
+            var configuration = builder.Build();
+            var ruta = configuration.GetSection("JsonDataInicial:Proveedores").Value;
+
+            var jsonProveedores = File.ReadAllText(ruta);
             var objProveedores = JObject.Parse(jsonProveedores);
             foreach (var item in objProveedores["proveedores"])
             {
@@ -87,7 +105,15 @@ namespace Drogueria.Core.Infraestructura.Contextos
         public List<Arsenal> CrearArsenales(Usuario responsable)
         {
             var arsenales = new List<Arsenal>();
-            var jsonArsenales = File.ReadAllText(Configuration.GetSection("JsonDataInicial.Arsenales").Value);
+
+            var builder = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json");
+
+            var configuration = builder.Build();
+            var ruta = configuration.GetSection("JsonDataInicial:Arsenales").Value;
+
+            var jsonArsenales = File.ReadAllText(ruta);
             var objArsenales = JObject.Parse(jsonArsenales);
             foreach (var item in objArsenales["arsenales"])
             {

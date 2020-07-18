@@ -9,4 +9,10 @@
     <ProjectReference Include="..\Drogueria.Core.Servicio\Drogueria.Core.Servicio.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
