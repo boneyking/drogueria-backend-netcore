@@ -1,3 +1,4 @@
+using Drogueria.Api.Hubs;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -18,7 +19,7 @@ namespace Drogueria.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddSignalR();
             services.AddControllers();
         }
 
@@ -39,6 +40,7 @@ namespace Drogueria.Api
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                endpoints.MapHub<NotificacionesHub>("/notificacioneshub");
             });
         }
     }
