@@ -1,0 +1,348 @@
+{
+  "proveedores": [
+    {
+      "nombre": "ARAMA ",
+      "rut": "76.070.033-9"
+    },
+    {
+      "nombre": "WINPHARM SPA.",
+      "rut": "76.079.782-0"
+    },
+    {
+      "nombre": "COMERCIALIZADORA GHALENO LTDA",
+      "rut": "76.095.228-1"
+    },
+    {
+      "nombre": "LUXYPHARM SPA.",
+      "rut": "76.105.305-1"
+    },
+    {
+      "nombre": "COMERCIAL REUTTER S.A.",
+      "rut": "76.150.425-8"
+    },
+    {
+      "nombre": "LABOFAR",
+      "rut": "76.174.812-2"
+    },
+    {
+      "nombre": "BSN MEDICAL SPA.",
+      "rut": "76.186.732-6"
+    },
+    {
+      "nombre": "COMERCIALIZADORA LAIN CHILE",
+      "rut": "76.264.506-8"
+    },
+    {
+      "nombre": "GEDEON RICHTER SPA",
+      "rut": "76.307.190-1"
+    },
+    {
+      "nombre": "LABORATORIO GDM LTDA.",
+      "rut": "76.329.633-4"
+    },
+    {
+      "nombre": "ALPHA PHARMA SPA.",
+      "rut": "76.479.314-5"
+    },
+    {
+      "nombre": "OPKO CHILE S.A.",
+      "rut": "76.669.630-9"
+    },
+    {
+      "nombre": "FRESENIUS KABI CHILE LIMITADA",
+      "rut": "77.478.120-K"
+    },
+    {
+      "nombre": "LABORATORIO CHILE S.A.",
+      "rut": "77.596.940-7"
+    },
+    {
+      "nombre": "SASF",
+      "rut": "77.606.220-0"
+    },
+    {
+      "nombre": "TEXTIL SUPER LIMITADA ",
+      "rut": "78.238.490-2"
+    },
+    {
+      "nombre": "PHARMAMERICA ",
+      "rut": "78.914.950-K"
+    },
+    {
+      "nombre": "INMED DROGUERIA LTDA",
+      "rut": "86.821.000-1"
+    },
+    {
+      "nombre": "INSTITUTO SANITAS S.A.",
+      "rut": "90.073.000-4"
+    },
+    {
+      "nombre": "LABORATORIO SANDERSON S.A.",
+      "rut": "91.546.000-3"
+    },
+    {
+      "nombre": "SOCOFAR",
+      "rut": "91.575.000-1"
+    },
+    {
+      "nombre": "LABORATORIOS RECALCINE S.A.",
+      "rut": "91.637.000-8"
+    },
+    {
+      "nombre": "LABORATORIO SILESIA S.A",
+      "rut": "91.871.000-0"
+    },
+    {
+      "nombre": "DROGUERIA HOFMANN SAC ",
+      "rut": "92.288.000-K"
+    },
+    {
+      "nombre": "LABORATORIO LAFI LTDA.",
+      "rut": "94.398.000-4"
+    },
+    {
+      "nombre": "LABORATORIOS LAFI LTDA.",
+      "rut": "94.398.000-4"
+    },
+    {
+      "nombre": "LABORATORIOS SMB FARMA S.A.",
+      "rut": "96.544.130-1"
+    },
+    {
+      "nombre": "FARMA STORAGE",
+      "rut": "96.699.730-3"
+    },
+    {
+      "nombre": "LABORATORIO DENTAID SA",
+      "rut": "96.718.630-9"
+    },
+    {
+      "nombre": "B.BRAUN",
+      "rut": "96.756.540-7"
+    },
+    {
+      "nombre": "NOVOFARMA S.A.",
+      "rut": "96.945.670-2"
+    },
+    {
+      "nombre": "SANFER CHILE S.A.",
+      "rut": "76.551.792-3"
+    },
+    {
+      "nombre": "BLUEMEDICAL LTDA",
+      "rut": "76.116.604-2"
+    },
+    {
+      "nombre": "OPTIVISION ",
+      "rut": "77.190.880-2"
+    },
+    {
+      "nombre": "EXELTIS CHILE SPA",
+      "rut": "76.383.221-K"
+    },
+    {
+      "nombre": "ITF LABOMED LTDA",
+      "rut": "96.884.770-8"
+    },
+    {
+      "nombre": "LABVITALIS S.A.",
+      "rut": "76.642.770-7"
+    },
+    {
+      "nombre": "MADEGOM",
+      "rut": "84.609.600-0"
+    },
+    {
+      "nombre": "LABORATORIO DIFEM SA.",
+      "rut": "79.581.120-6"
+    },
+    {
+      "nombre": "SOC.COMERCIAL IMPROFAR LTDA.",
+      "rut": "76.071.981-1"
+    },
+    {
+      "nombre": "MEDBIOTE SOCIEDAD",
+      "rut": "76.280.494-8"
+    },
+    {
+      "nombre": "ETHON PHARMACEUTICALS",
+      "rut": "76.956.140-4"
+    },
+    {
+      "nombre": "MUNNICH PHARMA MEDICAL LTDA.",
+      "rut": "80.447.400-5"
+    },
+    {
+      "nombre": "RECBEN XENERICS FARMACEUTICA LTDA.",
+      "rut": "78.740.450-2"
+    },
+    {
+      "nombre": "CENCOMEX S.A",
+      "rut": "96.515.660-7"
+    },
+    {
+      "nombre": "LABORATORIO PASTEUR S.A",
+      "rut": "87.674.400-7"
+    },
+    {
+      "nombre": "VIT ALSEC SPA",
+      "rut": "76.325.278-7"
+    },
+    {
+      "nombre": "LABORATORIO VALMA S.A",
+      "rut": "80.048.900-8"
+    },
+    {
+      "nombre": "EXXIMMED 2000 SPA",
+      "rut": "78.060.400-K"
+    },
+    {
+      "nombre": "GLASS LAB",
+      "rut": "76.063.620-7"
+    },
+    {
+      "nombre": "GLOBAL PHARMA",
+      "rut": "76.389.383-9"
+    },
+    {
+      "nombre": "HELIOS",
+      "rut": "93.791.000-2"
+    },
+    {
+      "nombre": "LORENZO JIMENEZ",
+      "rut": "79.636.400-9"
+    },
+    {
+      "nombre": "RE-MED LTDA",
+      "rut": "76.628.610-0"
+    },
+    {
+      "nombre": "RM SPA",
+      "rut": "76.810.668-1"
+    },
+    {
+      "nombre": "MIDICALTEK",
+      "rut": "96.696.000-0"
+    },
+    {
+      "nombre": "CHEMO PHARMA",
+      "rut": "96.026.000-7"
+    },
+    {
+      "nombre": "PHARMA TRADE",
+      "rut": "96.670.640-6"
+    },
+    {
+      "nombre": "BIOMEDIKA SPA",
+      "rut": "76.732.365-4"
+    },
+    {
+      "nombre": "BPH",
+      "rut": "96.519.830-K"
+    },
+    {
+      "nombre": "BIOSANO",
+      "rut": "88.597.500-3"
+    },
+    {
+      "nombre": "REUTTER",
+      "rut": "81.210.400-4"
+    },
+    {
+      "nombre": "SASF COMERCIAL",
+      "rut": "76.930.423-1"
+    },
+    {
+      "nombre": "SANOFI",
+      "rut": "92.251.000-8"
+    },
+    {
+      "nombre": "CONVATEC",
+      "rut": "76.020.266-5"
+    },
+    {
+      "nombre": "GEMCO",
+      "rut": "76.142.730-K"
+    },
+    {
+      "nombre": "EEE",
+      "rut": "76.845.730-1"
+    },
+    {
+      "nombre": "MEGAMEDICAL SPA",
+      "rut": "76.888.064-6"
+    },
+    {
+      "nombre": "PHARMAVISAM",
+      "rut": "76.055.804-4"
+    },
+    {
+      "nombre": "CEGAMED CHILE S.A.",
+      "rut": "99.593.170-2"
+    },
+    {
+      "nombre": "TREMA DENTAL LIMITADA",
+      "rut": "76.128.840-7"
+    },
+    {
+      "nombre": "MEDICINAE SPA",
+      "rut": "76.772.596-5"
+    },
+    {
+      "nombre": "HOSPIFARMA",
+      "rut": "76.133.312-7"
+    },
+    {
+      "nombre": "GRUNENTHAL",
+      "rut": "81.323.800-4"
+    },
+    {
+      "nombre": "INVERSIONES C & F SPA",
+      "rut": "76.857.891-5"
+    },
+    {
+      "nombre": "CENABAST",
+      "rut": "61.608.700-2"
+    },
+    {
+      "nombre": "CODIMED",
+      "rut": "78.124.770-7"
+    },
+    {
+      "nombre": "PHARMAVISION SPA",
+      "rut": "76.862.713-4"
+    },
+    {
+      "nombre": "NEMO CHILE S.A.",
+      "rut": "76.215.260-6"
+    },
+    {
+      "nombre": "TECNIKA S.A.",
+      "rut": "96.625.950-7"
+    },
+    {
+      "nombre": "DROGUERIA FARMOQUIMICA DEL PACIFICO SPA",
+      "rut": "77.781.470-2"
+    },
+    {
+      "nombre": "BLUNDING",
+      "rut": "79.744.580-0"
+    },
+    {
+      "nombre": "EUROFARMA S.A.",
+      "rut": "79.802.770-0"
+    },
+    {
+      "nombre": "PLARESA",
+      "rut": "9.934.320-6"
+    },
+    {
+      "nombre": "Input-medical",
+      "rut": "76.645.686-3"
+    },
+    {
+      "nombre": "TECNOPAPEL",
+      "rut": "76.075.072-7"
+    }
+  ]
+}

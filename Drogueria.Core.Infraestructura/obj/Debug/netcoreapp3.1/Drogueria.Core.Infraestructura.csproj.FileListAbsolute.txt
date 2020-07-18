@@ -1,0 +1,15 @@
+E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Infraestructura\bin\Debug\netcoreapp3.1\Drogueria.Core.Infraestructura.deps.json
+E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Infraestructura\bin\Debug\netcoreapp3.1\Drogueria.Core.Infraestructura.runtimeconfig.json
+E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Infraestructura\bin\Debug\netcoreapp3.1\Drogueria.Core.Infraestructura.runtimeconfig.dev.json
+E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Infraestructura\bin\Debug\netcoreapp3.1\Drogueria.Core.Infraestructura.dll
+E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Infraestructura\bin\Debug\netcoreapp3.1\Drogueria.Core.Infraestructura.pdb
+E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Infraestructura\bin\Debug\netcoreapp3.1\Drogueria.Core.Dominio.dll
+E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Infraestructura\bin\Debug\netcoreapp3.1\Drogueria.Core.Dominio.pdb
+E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Infraestructura\obj\Debug\netcoreapp3.1\Drogueria.Core.Infraestructura.csprojAssemblyReference.cache
+E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Infraestructura\obj\Debug\netcoreapp3.1\Drogueria.Core.Infraestructura.AssemblyInfoInputs.cache
+E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Infraestructura\obj\Debug\netcoreapp3.1\Drogueria.Core.Infraestructura.AssemblyInfo.cs
+E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Infraestructura\obj\Debug\netcoreapp3.1\Drogueria.Core.Infraestructura.csproj.CopyComplete
+E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Infraestructura\obj\Debug\netcoreapp3.1\Drogueria.Core.Infraestructura.dll
+E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Infraestructura\obj\Debug\netcoreapp3.1\Drogueria.Core.Infraestructura.pdb
+E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Infraestructura\obj\Debug\netcoreapp3.1\Drogueria.Core.Infraestructura.genruntimeconfig.cache
+E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Infraestructura\obj\Debug\netcoreapp3.1\Drogueria.Core.Infraestructura.csproj.CoreCompileInputs.cache

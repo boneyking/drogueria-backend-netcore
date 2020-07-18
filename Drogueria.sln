@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Drogueria.Core.Dominio", "Drogueria.Core.Dominio\Drogueria.Core.Dominio.csproj", "{E9EF19AF-E2DD-43D1-BB19-3E057444025E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Drogueria.Core.Infraestructura", "Drogueria.Core.Infraestructura\Drogueria.Core.Infraestructura.csproj", "{C5E49969-D96B-490C-B0C0-F872E29E5191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drogueria.Core.Servicio", "Drogueria.Core.Servicio\Drogueria.Core.Servicio.csproj", "{5BCDA4E9-3C71-4D51-803A-EECB11C988BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drogueria.Core.App", "Drogueria.Core.App\Drogueria.Core.App.csproj", "{DAF403B1-C7F1-4702-BBEE-8CD13A5DB20C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drogueria.Api", "Drogueria.Api\Drogueria.Api.csproj", "{DCB14B76-30DB-43AD-BA6F-07FAAE472574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9EF19AF-E2DD-43D1-BB19-3E057444025E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9EF19AF-E2DD-43D1-BB19-3E057444025E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9EF19AF-E2DD-43D1-BB19-3E057444025E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9EF19AF-E2DD-43D1-BB19-3E057444025E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E49969-D96B-490C-B0C0-F872E29E5191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E49969-D96B-490C-B0C0-F872E29E5191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E49969-D96B-490C-B0C0-F872E29E5191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E49969-D96B-490C-B0C0-F872E29E5191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BCDA4E9-3C71-4D51-803A-EECB11C988BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCDA4E9-3C71-4D51-803A-EECB11C988BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCDA4E9-3C71-4D51-803A-EECB11C988BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCDA4E9-3C71-4D51-803A-EECB11C988BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF403B1-C7F1-4702-BBEE-8CD13A5DB20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF403B1-C7F1-4702-BBEE-8CD13A5DB20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF403B1-C7F1-4702-BBEE-8CD13A5DB20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF403B1-C7F1-4702-BBEE-8CD13A5DB20C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB14B76-30DB-43AD-BA6F-07FAAE472574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB14B76-30DB-43AD-BA6F-07FAAE472574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB14B76-30DB-43AD-BA6F-07FAAE472574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB14B76-30DB-43AD-BA6F-07FAAE472574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {599DC8B2-B139-4284-83CB-61D6F0E415D3}
+	EndGlobalSection
+EndGlobal

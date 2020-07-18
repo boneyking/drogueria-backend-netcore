@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Drogueria.Core.Dominio\Drogueria.Core.Dominio.csproj" />
+    <ProjectReference Include="..\Drogueria.Core.Infraestructura\Drogueria.Core.Infraestructura.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,2124 @@
+{
+  "arsenales": [
+    {
+      "nombre": "ACICLOVIR 400 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ACIDO ACETIL-SALICILICO 100 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ACIDO ACETIL-SALICILICO 500 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ACIDO FOLICO 1 ./1 . COMPRIMIDO RECUBIERTO 5 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ACIDO FOLICO 1 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ACIDO VALPROICO 200 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ACIDO VALPROICO 250 MG 1 ./1 . COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ACIDO VALPROICO 250 MG/5 ML JARABE 120 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ACIDO VALPROICO 375 MG/ML FRASCO GOTARIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ACIDO VALPROICO 500 MG COMPRIMIDO 1 COMPRIMIDOS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ADENOSINA 6 MG/ML AMPOLLAS 2 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "AEROCAMARA ADULTO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "AEROCAMARA NEONATAL",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "AEROCAMARA PEDIATRICA",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "AGUA BIDESTILADA 5 ML AMPOLLAS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "AMINOFILINA 250 MG/ML AMPOLLAS 10 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "AMIODARONA 150 MG/ML AMPOLLAS 3 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "AMITRIPTILINA 25 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "AMLODIPINO 10MG 1 MG/10 MG COMPRIMIDO 1 COMPRIMIDOS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "AMOXICILINA / ÁCIDO CLAVULÁNICO 400/57 1 ./1 . JARABE 70 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "AMOXICILINA / ÁCIDO CLAVULÁNICO 875 MG/125 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "AMOXICILINA 250 MG/5 ML SOLUCIÓN ORAL",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "AMOXICILINA 500 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "AMOXICILINA 500 MG/5 ML SOLUCIÓN ORAL",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "AMOXICILINA/ ACIDO CLAVULANICO 500 MG/125 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ARIPIPRAZOL 1 ./1 . COMPRIMIDO 10 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ATENOLOL 50 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ATORVASTATINA 20 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ATROPINA SULFATO 1 MG/ML AMPOLLAS 1 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "AZITROMICINA 400 MG/5 ML JARABE 1 CUCHARADA(S)",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "BENCIL-PENICILINA 1000000 UI FRASCO AMPOLLA",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "BENCIL-PENICILINA 2,000,000 UI FRASCO AMPOLLA",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "BENCIL-PENICILINA BENZATINA 1200000 UI FRASCO AMPOLLA",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "BETAMETASONA 0.05 % CREMA 15 G",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "BETAMETASONA 4 MG/ML AMPOLLAS 1 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "BICARBONATO DE SODIO 8.4 % AMPOLLAS 10 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "BRIMONIDINA 1 GOTAS/1 GOTAS GOTAS 1 GOTAS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "BRIMOTIM 0,2% SOLUCIÓN OFTÁLMICA 5ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "BRINZOLAMIDA 10 MG/1 ML GOTAS 1 FRASCO GOTARIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "BRINZOLAMIDA+TIMOLOL 2 MG/1 ML . 5 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "BUDESONIDA 200 MCG INHALADOR 200 DÓSIS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "BUPROPION 1 ./1 . COMPRIMIDO RECUBIERTO 150 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CAPTOPRIL 25 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CARBAMAZEPINA 1 CM/1 . COMPRIMIDO 400 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CARBAMAZEPINA 200 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CARBON ACTIVADO 1 . POLVO 1 PAQUETE",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CARBONATO DE LITIO 1 ./1 . COMPRIMIDO 300 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CARVEDILOL 1 ./1 . COMPRIMIDO 12.50 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CARVEDILOL 1 CM/1 CM COMPRIMIDO 25 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CEFADROXILO 250 MG/5 ML SUSPENSIÓN",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CEFADROXILO 500 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CELECOXIB 200 MG CAPSULA",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CETIRIZINA 10 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CETIRIZINA 5 ML/1 . FRASCO 5 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CIANOCOBALAMINA (VIT B12) 0.1 MG/ML AMPOLLAS 1 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CICLOBENZAPRINA 10 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CICLOPENTOLATO 1% SOLUCION OFTALMICA 15 ML 1 ./1 . COLIRIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CIPROFLOXACINO 500 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CITALOPRAM 1 ./1 . COMPRIMIDO 20 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLARITROMICINA 250 MG/5 ML FRASCO 1 FRASCO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLARITROMICINA 500 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLOFAZIMINA 100 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLONAZEPAM 0.25 MG COMPRIMIDO SUBLINGUAL 1 ./1 . COMPRIMIDO SUBLINGUAL",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLONAZEPAM 0.5 MG 0.5 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLONAZEPAM 2 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLOPIDOGREL 1 ./1 . COMPRIMIDO RECUBIERTO 75 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLORANFENICOL 0.5 % COLIRIO 10 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLORANFENICOL 1 % UNGÜENTO 3.50 G",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLORANFENICOL 500 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLORFENAMINA 10 MG/ML AMPOLLAS 1 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLORFENAMINA 4 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLORPROMAZINA 100 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLORPROMAZINA 25 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLORPROMAZINA 25 MG/ML AMPOLLAS 2 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLORURO DE POTASIO 10 % AMPOLLAS 10 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLORURO DE POTASIO 600 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLORURO DE SODIO 0.9 % AMPOLLAS 10 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLORURO DE SODIO 0.9 % AMPOLLAS 20 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLORURO DE SODIO 0.9 % AMPOLLAS 5 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLORURO DE SODIO 0.9 % MATRAZ 250 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLORURO DE SODIO 0.9 % MATRAZ 500 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLORURO DE SODIO 10 % AMPOLLAS 20 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLOTRIMAZOL 1 % CREMA 20 G",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLOTRIMAZOL 100 MG OVULO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLOTRIMAZOL 500 MG OVULO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLOXACILINA 500 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "CLOXACILINA 500 MG FRASCO AMPOLLA",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "COTRIMOXAZOL 800 MG/160 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DACAM RAPI-LENTO AMP-1 1 MG/ML/1 MG/ML AMPOLLAS 1 AMPOLLAS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DECAMETRINA 1 . LOCIÓN 60 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DECAMETRINA 1 . SHAMPOO 100 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DESLORATADINA 5 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DIAZEPAM 10 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DIAZEPAM 10 MG/ML AMPOLLAS 2 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DICLOFENACO 12.5 MG SUPOSITORIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DICLOFENACO 50 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DICLOFENACO 75 MG/ML AMPOLLAS 3 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DIGOXINA 0.25 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DISULFIRAM 500 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DOMPERIDONA 10 MG/1 ML FRASCO GOTARIO 1 GOTAS (ML)",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DORZOLAMIDA 2% / TIMOLOL 0.5% SOLUCION OFTALMICA ESTERIL 1 ./1 . COLIRIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DORZOLAMIDA 2% SOLUCION OFTALMICA ESTERIL 1 ./1 . FRASCO GOTARIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DOSIS FIJAS COMBINADAS 2 1 ./0 . COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DOSIS FIJAS COMBINADAS 4 1 ./0 . COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DOXICICLINA 100 MG CAPSULA",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "DROSPIRENONA / ESTRADIOL 2 MG/1 MG COMPRIMIDO RECUBIERTO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "EFEDRINA 6 %/1 ML AMPOLLAS 6 %",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ENALAPRIL 10 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ENALAPRIL 20 MG 1 ./1 . COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "EPINEFRINA 1 MG/ML AMPOLLAS 1 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ERITROMICINA 200 MG/5 ML SOLUCIÓN ORAL",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ERITROMICINA 400 MG/5 ML SOLUCIÓN ORAL",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ERITROMICINA 500 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ESCITALOPRAM 1 ./1 . COMPRIMIDO 10 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ESCITALOPRAM 1 ./1 . COMPRIMIDO 20 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ESPIRONOLACTONA 25 1 ./1 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ESTRADIOL 0,5 MG GEL TRANSDERMICO TU/FRA 45 A 60 1 ./1 . GEL",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ESTRADIOL 1 MG / NORETISTERONA 0.5 MG 1 ./1 . COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ESTRADIOL MICRONIZADO 1 MG 1 ./1 . COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ESTREPTOMICINA 1 GR FRASCO AMPOLLA",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ESZOPICLONA 3 MG / COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ETAMBUTOL 200 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ETAMBUTOL 400 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ETONOGESTREL 68 MG IMPLANTE SUBCUTANEO 1 MG/1 MG IMPLANTE 1 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FAMOTIDINA 40 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FENITOINA SODICA 100 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FENOBARBITAL 100 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FENOBARBITAL 15 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FENOTEROL/ BROMURO DE IPRATROPIO 0.5 MG/0.25 MG SOLUCIÓN PARA NEBULIZADOR 20 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FERROSO SULFATO (EQUIV. 25MG FE ACTIVO) 125 MG/ML FRASCO GOTARIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FERROVITAMINICO CAPSULA",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FITOMENADIONA 10 MG/ML AMPOLLAS 1 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FLUCLOXACILINA 1 ./1 . CAPSULA 500 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FLUCLOXACILINA 250 MG/5 ML SUSPENSIÓN",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FLUCONAZOL 150 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FLUFENAZINA 250 MG FRASCO AMPOLLA 10 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FLUMAZENIL 0.5 MG/5 ML AMPOLLAS 5 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FLUORURO DE SODIO 0.05 % FRASCO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FLUOXETINA 20 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FLUTICASONA / SALMETEROL 125 MG/25 MG INHALADOR",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FLUTICASONA / SALMETEROL 250 MCG/25 MCG INHALADOR",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FLUTICASONA 1 PUFF/125 MCG PUFF 120 DÓSIS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FURAZOLIDONA 50 MG/5 ML SUSPENSIÓN",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FUROSEMIDA 20 MG/ML AMPOLLAS 1 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "FUROSEMIDA 40 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "GEMFIBROZILO 600 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "GENTAMICINA 1 ./1 . COLIRIO 0.30 %",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "GENTAMICINA 80 MG/ML AMPOLLAS 2 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "GLIBENCLAMIDA 5 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "GLUCO- SALINO ISOTONICO 500 ML MATRAZ",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "GLUCONATO DE CALCIO 10% 10ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "GLUCOSA 10 % MATRAZ 500 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "GLUCOSA 30 % AMPOLLAS 20 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "GLUCOSA 30 % MATRAZ 250 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "GLUCOSA 30 % MATRAZ 500 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "GLUCOSA 5 % MATRAZ 250 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "GLUCOSA 5 % MATRAZ 500 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "HALOPERIDOL 1 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "HALOPERIDOL 5 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "HALOPERIDOL 5 MG/ML AMPOLLAS 1 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "HIALURONATO DE SODIO 0.4% 1 ./1 . COLIRIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "HIDROCLOROTIAZIDA 50 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "HIDROCORTISONA 1 % CREMA",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "HIDROCORTISONA 100 MG POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "HIDROCORTISONA 500 MG POLVO LIOFILIZADO PARA SOLUCIÓN INYECTABLE",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "HIDROXIDO ALUMINIO 6 % FRASCO 180 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "IBUPROFENO 200 MG/5 ML SUSPENSIÓN 1 ./1 . JARABE",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "IBUPROFENO 400 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "IMIPRAMINA 25 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "INSULINA CRISTALINA 100 UI/ML F.A.",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "INSULINA NPH 100 UI/ML F.A.",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "IPRATROPIO (BROMURO) 20 MCG INHALADOR 250 DÓSIS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": " IPRATROPIO 0.25 MG SOLUCIÓN PARA NEBULIZADOR ",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ISONIAZIDA 100 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ISOSORBIDA (DINITRATO) 10 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "JERINGA INSULINA 100 UI/ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "KANAMICINA 1G POLVO PARA SOLUCION",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "KETOPROFENO 100 MG/ML AMPOLLAS 2 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LACTULOSA 65 GR/100 ML SOLUCIÓN ORAL 200 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LAGRIMAS ARTIFICIALES FRASCO GOTARIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LAMOTRIGINA 100 . COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LAMOTRIGINA 50 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LANATOSIDO C 0.4 MG/ML AMPOLLAS 2 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LATANOPROST 0.05 % FRASCO GOTARIO 2.50 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LEVETIRACETAM 1 GR COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LEVETIRACETAM 100 MG/ML/300 ML JARABE 100 MG/ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LEVETIRACETAM 500 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LEVODOPA / BENSERAZIDA 200 MG/50 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LEVODOPA / CARBIDOPA 250 MG/25 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LEVONORGESTREL 0.03 1 MCG/1 . COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LEVONORGESTREL 0.75 MG SACHET",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LEVONORGESTREL 1 ./1 . IMPLANTE 75 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LEVONORGESTREL 20 MCG/24 HRS UNIDAD 52 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LEVONORGESTREL/ETINILESTRADIOL 0.15 MG/0.03 MG SACHET",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LEVOTIROXINA SODICA 100 MCG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LEVOTIROXINA SODICA 50 MCG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LIDOCAINA / EPINEFRINA (DENTAL)",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LIDOCAINA 2 % AMPOLLAS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LINEZOLIDA 600 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LORATADINA 1 ./1 . COMPRIMIDO 10 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LORAZEPAM 2 MG COMPRIMIDO 1 ./1 . COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LOSARTAN 50 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "LUBRICANTE PARA PRESERVATIVO 1 ./1 . GEL",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "MEBENDAZOL 100 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "MEDROXIPOGESTERONA ACETATO 104 MG/0.65 ML JERINGA PRELLENADA",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "MEDROXIPROGESTERONA ACETATO JERINGA PRELLENADA 150MG/1 1 MG/1 MG JERINGA PRELLENADA 1 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "MEDROXIPROGESTERONA ACETATO/ESTRADIOL CIPIONATO 25/5 MG 1 MG/1 MG AMPOLLAS 1 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "MELOXICAM 15 MG/1 . COMPRIMIDO 1 COMPRIMIDOS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "MEPIVACAINA (DENTAL)",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "METAMIZOL SODICO 1 GR AMPOLLAS 2 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "METAMIZOL SODICO 250 MG SUPOSITORIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "METAMIZOL SODICO 300 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "METFORMINA 1GR LP/ COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "METFORMINA 850 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "METFORMINA/GLIBENCLAMIDA 500 MG/2.5 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "METFORMINA/GLIBENCLAMIDA 500 MG/5 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "METILDOPA 250 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "METILFENIDATO 1 ./1 . COMPRIMIDO RECUBIERTO LIBERACIÓN PROLONGADA 20 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "METILFENIDATO 10 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "METOCLOPRAMIDA 10 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "METOCLOPRAMIDA 10 MG/2 ML AMPOLLAS 1 AMPOLLAS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "METRONIDAZOL 125 MG/5 ML SOLUCIÓN ORAL 120 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "METRONIDAZOL 250 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "METRONIDAZOL 500 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "METRONIDAZOL 500 MG OVULO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "MIDAZOLAM 5 MG/ML AMPOLLAS 1 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "MORFINA 10 MG/1 ML CAJA 1 AMPOLLAS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "MOXIFLOXACINO 400 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "NIFEDIPINO RETARD. 20 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "NITRENDIPINO 20 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "NITROFURANTOINA 100 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "NOMEGESTROL 5 MG 1 ./1 . COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "NORETISTERONA ANATATO/ESTRADIOL VALERIANATO50/5 MG AM 1 MG/1 MG JERINGA PRELLENADA 1 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "OLANZAPINA 1 ./1 . COMPRIMIDO 10 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "OMEPRAZOL 20 MG CAPSULA",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PAPAVERINA CLORHIDRATO 40 MG/ML AMPOLLAS 2 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PAPAVERINA/ ATROPINA 40 MG/0.5 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PARACETAMOL 100 MG/ML FRASCO GOTARIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PARACETAMOL 125 MG SUPOSITORIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PARACETAMOL 500 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PARACETAMOL 80 MG COMPRIMIDO 1 COMPRIMIDOS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PAROXETINA 20 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PASTA DENTAL",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PASTA DENTAL INFANTIL",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PIRAZINAMIDA 500 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PIRIDOXINA (VIT B6) 100 MG/ML AMPOLLAS 1 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "POLIVITAMINICO COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "POTASIO CLORURO 600 MG LIBERACION PROLONGADA 1 ./1 . CÁPSULA DE LIBERACIÓN PROLONGADA",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "POTASIO GLUCONATO 780 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PRAMIPEXOLE CLORHIDRATO 0.25 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PRAMIPEXOLE CLORHIDRATO 1 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PREDISONA 20MG/5ML SOLUCION ORAL 1 MG/ML JARABE",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PREDNISONA 20 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PREDNISONA 5 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PRESERVATIVO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PRESERVATIVO ADOLECENTE/1 SIN ESPECIFICAR 1 SIN ESPECIFICAR",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PRESERVATIVO ADOLESCENTE 1 . .",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PRESERVATIVO RESISTENTE C/ LUBRICANTE A BASE DE SOLUCION A/1 SIN ESPECIFICAR UNIDAD 1 SIN ESPECIFICAR",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PRIMIDONA 250 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PROGESTERONA MICRONIZADA 100 MG 1 ./1 . COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PROPARACAINA 0.5% SOL. OFTALMICA 15 ML 1 ./1 . COLIRIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PROPIFENAZONA / ADIFENINA 220 MG/25 MG SUPOSITORIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PROPIFENAZONA / ADIFENINA 440 MG/25 MG SUPOSITORIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PROPRANOLOL (CLORHIDRATO) 40 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "PROPRANOLOL 1 MG/1 ML AMPOLLAS 1 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "QUETIAPINA 1 CM/1 DOSIS COMPRIMIDO 100 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "QUETIAPINA 25 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "RANITIDINA 50 MG/ML AMPOLLAS 2 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "RIFAMPICINA 100 MG/5 ML JARABE",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "RIFAMPICINA 150 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "RINGER LACTATO 500 ML MATRAZ",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "RISPERIDONA 1 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "RISPERIDONA 1 MG/1 ML GOTAS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "RISPERIDONA 3 MG 1 ./1 . COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "SACARINA 24 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "SALBUTAMOL 100 MCG INHALADOR 200 DÓSIS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "SALBUTAMOL 5 MG/ML SOLUCIÓN PARA NEBULIZADOR 20 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "SALES REHIDRATANTES 60 MEQ SOBRE",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "SALES REHIDRATANTES 90 MEQ SOBRE",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "SALMETEROL 25 MCG INHALADOR 120 DÓSIS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "SERTRALINA 50 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "SULFATO DE MAGNESIO 25%5 ML ",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "T DE COBRE 1 . UNIDAD",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "TCU 380 U",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "TERBINAFINA 250 MG 1 ./1 . COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "TEST DE EMBARAZO 1 . UNIDAD",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "TETRACICLINA (CLORHIDRATO) 250 MG CAPSULA",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "TIAMINA (VIT B1) 100 MG/ML AMPOLLAS 1 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "TIBOLONA 2,5 MG 1 ./1 . COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "TIMOLOL 0.5 % FRASCO GOTARIO 10 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "TIORIDAZINA 100 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "TIORIDAZINA 25 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "TRAMADOL 100 MG/ML FRASCO GOTARIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "TRAMADOL 50 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "TRIHEXIFENIDILO 2 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "TROPICAMIDA 1 % FRASCO GOTARIO 15 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "VALSARTAN 1 ./1 . COMPRIMIDO 160 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "VASELINA LIQUIDA ESTERIL 5 ML AMPOLLAS",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "VASELINA LIQUIDA MEDICINAL 100 % SUSPENSIÓN",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "VASELINA SOLIDA 80 GR EMULSIÓN",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "VENLAFAXINA 75 MG COMPRIMIDO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "VENLAFAXINA XR 1 ./1 . COMPRIMIDO RECUBIERTO LIBERACIÓN PROLONGADA 75 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "VERAPAMILO 5 MG/ML AMPOLLAS 2 ML",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "VIADIL 5MG/ML AM CX100 1 GOTAS (ML)/1 GOTAS (ML) AMPOLLAS 1 FRASCO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "VITAMINAS A-C-D FRASCO GOTARIO",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "ZOPICLONA 1 ./1 . COMPRIMIDO 7.50 MG",
+      "arsenalTipo": "0"
+    },
+    {
+      "nombre": "AGUA OXIGENADA 10 ° FRASCO 1 LITRO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "AGUA OXIGENADA 10 VOL. BOTELLA 500 ML",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "AGUJA DESECHABLE 19G X 1.0",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "AGUJA DESECHABLE 21G X 1.0",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "AGUJA DESECHABLE 21G X 1.5",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "AGUJA DESECHABLE 23G X 1.0",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "AGUJA DESECHABLE 25G X 5/8",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "AGUJA DESECHABLE 30",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "ALCOHOL DESNATURALIZADO 70 ° FRASCO 1 ./1 . BOTELLA 250 ML",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "ALCOHOL DESNATURALIZADO 70 ° FRASCO 1 LITRO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "ALCOHOL GEL FRASCO 1 LITRO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "ALCOHOL GEL TOPICO 70% 340 ML 1 ./1 . FRASCO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "ALCOHOL ISOPROPILICO FRASCO 1 LITRO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "ALGODON HIDROFILO PRENSADO ROLLO 1 KG",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "ALGODON TORULA 0,5 GR 1 ./1 . UNIDAD 1 UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "APLICADOR PAP ESTERIL 1 ./1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "APOSITO ALGINATO DE CALCIO Y SODIO 1 ./1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "APOSITO ALGINATO LAMINA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "APOSITO ALGINATO MECHA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "APOSITO CARBON ACTIVADO + PLATA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "APOSITO CARBOXI METILCELULOSA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "APOSITO CHICO ESTERIL 1 ./1 .",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "APOSITO CON PLATA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "APOSITO DACC",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "APOSITO ESPUMA HIDROFILICA 10 X 10",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "APOSITO GRANDE ESTERIL 1 ./1 .",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "APOSITO HIDROCOLOIDE CON ALGINATO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "APOSITO HIDROCOLOIDE SIN ALGINATO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "APOSITO HIDROGEL LAMINA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "APOSITO HIDROGEL LAMINA SECA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "APOSITO MEDIANO ESTERIL 1 ./1 .",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "BAJALENGUA DESECHABLE",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "BATA QUIRURGICA  XL 1 ./1 . .",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "BISTURI Nº 11",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "BISTURI Nº 15",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "BISTURI Nº 20",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "BISTURI Nº 21",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "BOLSA PAPEL 1/4 KG",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "BOLSA SMS 15X21 PAR103 1 ./1 . 1 SIN ESPECIFICAR",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "BOLSA SMS 15X36 PAR120 1 ./1 . .",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "BOLSA SMS 20X42 PAR113 1 ./1 . .",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "BOLSA SMS 25X36 PAR116 1 ./1 . .",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "BOLSA SMS 7.5X28 PAR103/1 SIN ESPECIFICAR 1 SIN PRESENTACION",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "BOLSAS PLASTICAS (PAP)",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "BOQUILLAS ESPIROMETRO DESECHABLE",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "BOQUILLAS FLUJOMETRO DESECHABLE",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CAJA DESECHABLE CORTO PUNZANTE (G)",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CAMPO CLINICO 50 X 50 CM. CON ORIFICIO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA CONDUCTOR INTUBACION ADULTO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA CONDUCTOR INTUBACION PEDIATRICA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA IV.C/TEFLON Nº 14 30 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA IV.C/TEFLON Nº 16 30 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA IV.C/TEFLON Nº 18 30 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA IV.C/TEFLON Nº 20 30 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA IV.C/TEFLON Nº 22 30 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA IV.C/TEFLON Nº 24 30 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA MAYO Nº 0",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA MAYO Nº 00",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA MAYO Nº 1",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA MAYO Nº 2",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA MAYO Nº 3",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA MAYO Nº 4",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA MAYO Nº 5",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA YANCAHUER ADULTO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CANULA YANCAHUER PEDIATRICA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CATGUT SIMPLE 2/0 C/AGUJA 25",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CATGUT SIMPLE 3/0 C/AGUJA 25",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CATGUT SIMPLE 4/0 C/AGUJA 25",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CINTA MEDICION GLICEMIA INSTA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CINTAS DETERMINACION EN ORINA 10 PARAMETRO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CINTAS MEDICION COLESTEROL",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CINTAS MEDICION GLICEMIA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CLORHEXIDINA 2 % SOLUCIÓN TÓPICA 1 LITRO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CLORHEXIDINA 2 % SOLUCIÓN TÓPICA 1/2 LITRO 1 ./1 . .",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CLORHEXIDINA GLUCONATO GEL 2% JABON LIQUIDO 340 ML 1 ./1 . FRASCO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CLORHEXIDINA JABON 2 % FRASCO 1 LITRO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CONTROL AUTOCLAVE BOWIE & DICK 1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CONTROL AUTOCLAVE CAJA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CONTROL AUTOCLAVE ROLLO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "CONTROL BIOLOGICO ESTERILIZACION AUTOCLAVE",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "DESINCRUSTANTE 5 LT",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "DETERGENTE ENZIMATICO BIDON 5 LITRO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "ELECTRODOS ADULTO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "ELECTRODOS PEDIATRICOS",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "EQUIPO ACCU-CHEK PERFORMA 1 ./1 . .",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "EQUIPO ACCUTREND PLUS 1 . .",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "EQUIPO ADMINISTRACION SOLUCION ADULTO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "EQUIPO ADMINISTRACION SOLUCION PEDIATRICA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "EQUIPO CURACION DESECHABLE",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "EQUIPO DE GLICEMIA INSTA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "ESPATULA PAP ESTERIL 1 ./1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "FOLIAS (TINTA)",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "FORMALINA SOLUCION",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "FRASCO BIOPSIA ESTERIL 1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GASA ESTERIL 10 X 10 1 ./1 . UNIDAD 1 UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GASA ESTERIL 5 X 5 1 ./1 . UNIDAD 1 UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GASA HIDROFILA 90 X 91,4 MT. ROLLO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GASA PARAFINADA 10 X 10",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GEL ELECTROCARDIOGRAFICO 1 ./1 . GEL 250 ML",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GEL PACK",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GEL ULTRASONIDO ECOGRAFO FRASCO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GORROS DESECHABLES",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GOTARIO VIDRIO CON VULVO 0 ./0 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GUANTE EXAMEN VINIL L",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GUANTE EXAMEN VINIL M",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GUANTE EXAMEN VINIL S",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GUANTE EXAMEN VINIL XS",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GUANTE LATEX L 1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GUANTE LATEX M 1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GUANTE LATEX S 1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GUANTE LATEX XS 1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GUANTE NITRILO S 1 ./1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GUANTE QUIRURGICO ESTERIL Nº 6,0",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GUANTE QUIRURGICO ESTERIL Nº 6,5",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GUANTE QUIRURGICO ESTERIL Nº 7",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GUANTE QUIRURGICO ESTERIL Nº 7.5",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "GUANTE QUIRURGICO ESTERIL Nº 8",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "HIDROGEL TUBO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "JERINGA DESECHABLE 10ML C/AGUJA 21G X 1.5",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "JERINGA DESECHABLE 20ML",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "JERINGA DESECHABLE 3 ML C/AGUJA 21G X 1.5",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "JERINGA DESECHABLE 3 ML C/AGUJA 23G X 1",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "JERINGA DESECHABLE 5ML",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "JERINGA DESESECHABLE 60 ML",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "JERINGA TUBERCULINA 1ML C/AGUJA 25 5/8",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "KIT ENDOTRAQUEAL",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "LACA FIJADOR PAP",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "LANCETAS DESECHABLES",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "LLAVE TRES PASOS",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "LONCHERA TERMICA 1 ./1 . .",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "MARIPOSAS N° 21G",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "MARIPOSAS N° 23G",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "MASCARILLA CON CONEXION OXIGENO 1 ./1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "MASCARILLA NEBULIZACION ADULTO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "MASCARILLA NEBULIZACION PEDIATRICA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "MASCARILLA VENTURI ADULTO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "MASCARILLA VENTURI NIÑO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "MASCARILLAS CON RESERVORIO ADULTO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "MASCARILLAS CON RESERVORIO PEDIATRICA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "MASCARILLAS DESECHABLES",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "MONOFILAMENTO 3/0 AGUJA 16",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "MONOFILAMENTO 4/0 AGUJA 17",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "MONOFILAMENTO 5/0 AGUJA 15-19-20",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "NARICERA - BIGOTERA ADULTO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "NARICERA - BIGOTERA NEONATAL 1 ./1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "NARICERA - BIGOTERA PEDIATRICO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PAÑAL ADULTO GRANDE",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PAÑAL ADULTO MEDIANO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PAPEL CLINIC INTERFOLIADO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PAPEL ECOGRAFO SONY UPP 110 HD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PAPEL ELECTROCARDIOGRAFO 112 MM X 90 MT.",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PAPEL ELECTROCARDIOGRAFO 50 MM X 30 MT.",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PAPEL ELECTROCARDIOGRAFO 60 MM X 30 MT.",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PAPEL ELECTROCARDIOGRAFO 63 MM X 30 MT.",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PAPEL ELECTROCARDIOGRAFO 80 MM X 20 MT.",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PAPEL SMS 35 GR.",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PARTIDOR DE PASTILLAS 1 ./1 . .",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PASTILLERO 7 DIAS 1 ./1 . .",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PECHERAS CON MANGA LARGA 1 ./1 . UNIDAD 1 UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PECHERAS PLASTICAS",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PLACAS DE ELECTROBISTURI",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PORTAOBJETO ESMERILADO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PRESERVATIVOS SIN LUBRICAR (ECOGRAFO)",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PROTECTOR CUTANEO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "PUNTAS ELECTROBISTURI 1 ./1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "RECOLECTOR ORINA ADULTO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "RECOLECTOR ORINA INFANTIL 1 ./1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "ROLLOS DE ETIQUETAS",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SABANILLA CLINICA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SEDA NEGRA 3/0 C/AGUJA 19-20",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SEDA NEGRA 3/0 C/AGUJA 24-25",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SEDA NEGRA 4/0 C/AGUJA 24",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SEDA NEGRA 5/0 C/AGUJA 19",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SOLUCION POLIHEXADINA CON BETAINA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA ASPIRACION C/CONTROL SUCCION Nº 06",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA ASPIRACION C/CONTROL SUCCION Nº 08",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA ASPIRACION C/CONTROL SUCCION Nº 10",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA ASPIRACION C/CONTROL SUCCION Nº 12",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA ASPIRACION C/CONTROL SUCCION Nº 14",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA FOLEY Nº 14",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA FOLEY Nº 16",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA FOLEY Nº 18",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA FOLEY Nº 20",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA FOLEY Nº 22",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA FOLEY Nº 24",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA NASOGASTRICA DESECHABLE Nº 06",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA NASOGASTRICA DESECHABLE Nº 08",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA NASOGASTRICA DESECHABLE Nº 10",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA NASOGASTRICA DESECHABLE Nº 12",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA NASOGASTRICA DESECHABLE Nº 14",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA NASOGASTRICA DESECHABLE Nº 16",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA NASOGASTRICA DESECHABLE Nº 18",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA NELATON DESECHABLE Nº 06",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA NELATON DESECHABLE Nº 08",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA NELATON DESECHABLE Nº 10",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA NELATON DESECHABLE Nº 12",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SONDA NELATON DESECHABLE Nº 14",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "SUTURA DE AFRONTAMIENTO 6 X 7,5 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TAPA OBTURACION GOMA",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TAPAS ROJAS",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TELA ADHESIVA PAPEL 1 ./1 . .",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TELA ADHESIVA PLASTICA 1 ./1 . .",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TERMOMETRO CLINICO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TERMOMETRO DIGITAL MED 1 ./1 . UNIDAD 1 UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TEST DE MONOFILAMENTO 1 ./1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TEST DE VIH 1 ./1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TEST MULTIDROGA 1 . UNIDAD",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TUBO CONEXIÓN OXIGENO",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TUBO ENDOTRAQUEAL 6 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TUBO ENDOTRAQUEAL 6.50 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TUBO ENDOTRAQUEAL 7 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TUBO ENDOTRAQUEAL 7.50 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TUBO ENDOTRAQUEAL 8 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TUBO ENDOTRAQUEAL 8.50 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TUBO ENDOTRAQUEAL 9 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TUBO ENDOTRAQUEAL PEDIATRICO 1.50 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TUBO ENDOTRAQUEAL PEDIATRICO 2 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TUBO ENDOTRAQUEAL PEDIATRICO 2.50 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TUBO ENDOTRAQUEAL PEDIATRICO 3 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TUBO ENDOTRAQUEAL PEDIATRICO 4 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TUBO ENDOTRAQUEAL PEDIATRICO 4.50 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TUBO ENDOTRAQUEAL PEDIATRICO 5 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "TUBO ENDOTRAQUEAL PEDIATRICO 5.50 MM",
+      "arsenalTipo": "1"
+    },
+    {
+      "nombre": "VENDA ELASTICADA 10 X 4",
+      "arsenalTipo": "1"
+    }
+  ]
+}
