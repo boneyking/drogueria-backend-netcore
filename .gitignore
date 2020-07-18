@@ -2,3 +2,11 @@
 /.vs
 /Drogueria.Api/obj
 /Drogueria.Api/bin
+/Drogueria.Core.App/obj
+/Drogueria.Core.App/bin
+/Drogueria.Core.Dominio/obj
+/Drogueria.Core.Dominio/bin
+/Drogueria.Core.Infraestructura/obj
+/Drogueria.Core.Infraestructura/bin
+/Drogueria.Core.Servicio/obj
+/Drogueria.Core.Servicio/bin
