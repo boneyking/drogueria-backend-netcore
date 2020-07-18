@@ -10,3 +10,9 @@
 /Drogueria.Core.Infraestructura/bin
 /Drogueria.Core.Servicio/obj
 /Drogueria.Core.Servicio/bin
+*.csproj.user
+*.cache
+*.props
+*.targets
+[Bb]in/
+[Oo]bj/
