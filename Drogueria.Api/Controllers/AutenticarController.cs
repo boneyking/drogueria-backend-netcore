@@ -41,8 +41,7 @@ namespace Drogueria.Api.Controllers
             }
             catch (Exception ex)
             {
-                Response.StatusCode = 104;
-                return BadRequest();
+                return BadRequest(ex.Message);
             }
             
         }
