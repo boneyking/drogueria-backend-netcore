@@ -18,3 +18,10 @@
 [Bb]in/
 [Oo]bj/
 /.vs/Drogueria
+
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
