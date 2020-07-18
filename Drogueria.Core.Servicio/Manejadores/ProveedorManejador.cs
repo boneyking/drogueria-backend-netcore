@@ -26,7 +26,7 @@ namespace Drogueria.Core.Servicio.Manejadores
         {
             var saltados = resultadosPaginados.CantidadResultados * (resultadosPaginados.Pagina - 1);
 
-            var resultados = _proveedorRepositorio.ObtenerPor(x => x.Nombre.Trim().ToUpper().StartsWith(resultadosPaginados.TextoBusqueda.ToUpper().Trim()))
+            var resultados = _proveedorRepositorio.ObtenerPor(x => x.Nombre.Trim().ToUpper().Contains(resultadosPaginados.TextoBusqueda.ToUpper().Trim()))
                 .OrderBy(x => x.Nombre)
                 .Skip(saltados)
                 .Take(resultadosPaginados.CantidadResultados)
@@ -35,16 +35,12 @@ namespace Drogueria.Core.Servicio.Manejadores
             return new RespuestaPaginada<Proveedor>
             {
                 Items = resultados,
-                Total = _proveedorRepositorio.ObtenerPor(x => x.Nombre.Trim().ToUpper().StartsWith(resultadosPaginados.TextoBusqueda.ToUpper().Trim())).Count()
+                Total = _proveedorRepositorio.ObtenerPor(x => x.Nombre.Trim().ToUpper().Contains(resultadosPaginados.TextoBusqueda.ToUpper().Trim())).Count()
             };
         }
 
         public IList<Proveedor> ObtenerTodosLosProveedores()
         {
-            var resultados = _proveedorRepositorio.ObtenerPor(x => x.Nombre.StartsWith("l"));
-            var a = resultados.OrderBy(x => x.Nombre)
-                .Skip(0)
-                .Take(5).ToList();
             return _proveedorRepositorio.ObtenerTodo().ToList();
         }
     }

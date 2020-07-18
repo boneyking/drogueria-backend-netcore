@@ -34,9 +34,9 @@ namespace Drogueria.Core.App
             //var proveedores = proveedorManejador.ObtenerTodosLosProveedores();
 
             var resultadosPaginados = new ResultadosPaginados();
-            resultadosPaginados.CantidadResultados = 3;
+            resultadosPaginados.CantidadResultados = 6;
             resultadosPaginados.Pagina = 1;
-            resultadosPaginados.TextoBusqueda = "";
+            resultadosPaginados.TextoBusqueda = "an";
 
 
             var respuestaPaginada = proveedorManejador.ObtenerProveedoresPaginados(resultadosPaginados);
