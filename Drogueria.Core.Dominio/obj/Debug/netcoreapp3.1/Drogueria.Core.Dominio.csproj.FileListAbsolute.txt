@@ -1,9 +1,0 @@
-E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Dominio\bin\Debug\netcoreapp3.1\Drogueria.Core.Dominio.deps.json
-E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Dominio\bin\Debug\netcoreapp3.1\Drogueria.Core.Dominio.dll
-E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Dominio\bin\Debug\netcoreapp3.1\Drogueria.Core.Dominio.pdb
-E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Dominio\obj\Debug\netcoreapp3.1\Drogueria.Core.Dominio.AssemblyInfoInputs.cache
-E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Dominio\obj\Debug\netcoreapp3.1\Drogueria.Core.Dominio.AssemblyInfo.cs
-E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Dominio\obj\Debug\netcoreapp3.1\Drogueria.Core.Dominio.csproj.CoreCompileInputs.cache
-E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Dominio\obj\Debug\netcoreapp3.1\Drogueria.Core.Dominio.dll
-E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Dominio\obj\Debug\netcoreapp3.1\Drogueria.Core.Dominio.pdb
-E:\personal\.net\drogueria\Drogueria\Drogueria.Core.Dominio\obj\Debug\netcoreapp3.1\Drogueria.Core.Dominio.csprojAssemblyReference.cache
