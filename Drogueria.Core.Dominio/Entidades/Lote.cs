@@ -9,7 +9,6 @@ namespace Drogueria.Core.Dominio.Entidades
         public DateTime FechaVencimiento { get; set; }
         [ForeignKey("Usuario")]
         public Guid ResponsableId { get; set; }
-        public Usuario Responsable { get; set; }
         public double ValorUnitario { get; set; }
         public double CantidadEntrada { get; set; }
         public double CantidadSalida { get; set; }

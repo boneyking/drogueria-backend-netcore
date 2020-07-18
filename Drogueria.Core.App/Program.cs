@@ -22,14 +22,68 @@ namespace Drogueria.Core.App
             var autenticarManejador = new AutenticarManejador(new Repositorio<Usuario>());
             try
             {
-                var usuario = autenticarManejador.AutenticarUsuario("15789559-1", "123343456");
+                var usuario = autenticarManejador.AutenticarUsuario("15789559-1", "123456");
 
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
-            
+
+            var proveedorManejador = new ProveedorManejador(new Repositorio<Proveedor>());
+            //var proveedores = proveedorManejador.ObtenerTodosLosProveedores();
+
+            var resultadosPaginados = new ResultadosPaginados();
+            resultadosPaginados.CantidadResultados = 3;
+            resultadosPaginados.Pagina = 1;
+            resultadosPaginados.TextoBusqueda = "";
+
+
+            var respuestaPaginada = proveedorManejador.ObtenerProveedoresPaginados(resultadosPaginados);
+            Console.WriteLine("Total items: {0} - Total resultados {1} - Pagina {2}", 
+                respuestaPaginada.Total, respuestaPaginada.Items.Count, resultadosPaginados.Pagina);
+            foreach (var item in respuestaPaginada.Items)
+            {
+                Console.WriteLine("Proveedor {0}", item.Nombre);
+            }
+
+            resultadosPaginados.Pagina = 2;
+            respuestaPaginada = proveedorManejador.ObtenerProveedoresPaginados(resultadosPaginados);
+            Console.WriteLine("Total items: {0} - Total resultados {1} - Pagina {2}",
+                respuestaPaginada.Total, respuestaPaginada.Items.Count, resultadosPaginados.Pagina);
+            foreach (var item in respuestaPaginada.Items)
+            {
+                Console.WriteLine("Proveedor {0}", item.Nombre);
+            }
+
+            resultadosPaginados.Pagina = 3;
+            respuestaPaginada = proveedorManejador.ObtenerProveedoresPaginados(resultadosPaginados);
+            Console.WriteLine("Total items: {0} - Total resultados {1} - Pagina {2}",
+                respuestaPaginada.Total, respuestaPaginada.Items.Count, resultadosPaginados.Pagina);
+            foreach (var item in respuestaPaginada.Items)
+            {
+                Console.WriteLine("Proveedor {0}", item.Nombre);
+            }
+
+
+            resultadosPaginados.Pagina = 4;
+            respuestaPaginada = proveedorManejador.ObtenerProveedoresPaginados(resultadosPaginados);
+            Console.WriteLine("Total items: {0} - Total resultados {1} - Pagina {2}",
+                respuestaPaginada.Total, respuestaPaginada.Items.Count, resultadosPaginados.Pagina);
+            foreach (var item in respuestaPaginada.Items)
+            {
+                Console.WriteLine("Proveedor {0}", item.Nombre);
+            }
+
+
+            resultadosPaginados.Pagina = 1;
+            respuestaPaginada = proveedorManejador.ObtenerProveedoresPaginados(resultadosPaginados);
+            Console.WriteLine("Total items: {0} - Total resultados {1} - Pagina {2}",
+                respuestaPaginada.Total, respuestaPaginada.Items.Count, resultadosPaginados.Pagina);
+            foreach (var item in respuestaPaginada.Items)
+            {
+                Console.WriteLine("Proveedor {0}", item.Nombre);
+            }
 
             Console.ReadLine();
         }

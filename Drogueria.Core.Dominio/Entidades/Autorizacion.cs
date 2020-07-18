@@ -12,7 +12,6 @@ namespace Drogueria.Core.Dominio.Entidades
         [ForeignKey("Usuario")]
         public Guid ResponsableId { get; set; }
         [Required]
-        public Usuario Responsable { get; set; }
         public DateTime FechaCreacion { get; set; }
 
     }
