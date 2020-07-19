@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Drogueria.Core.Dominio.Entidades
+namespace Drogueria.Core.Dominio.Respuestas
 {
     public class RespuestaPaginada<T>
     {
