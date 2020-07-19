@@ -2,12 +2,13 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Drogueria.Core.Dominio.Interfaces.Repositorios
 {
     public interface IProveedor
     {
-        IList<Proveedor> ObtenerTodosLosProveedores();
-        RespuestaPaginada<Proveedor> ObtenerProveedoresPaginados(ResultadosPaginados resultadosPaginados);
+        Task<IList<Proveedor>> ObtenerTodosLosProveedores();
+        Task<RespuestaPaginada<Proveedor>> ObtenerProveedoresPaginados(ResultadosPaginados resultadosPaginados);
     }
 }

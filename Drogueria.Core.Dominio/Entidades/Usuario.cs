@@ -14,5 +14,11 @@ namespace Drogueria.Core.Dominio.Entidades
         public ICollection<RolUsuario> Roles { get; set; }
         public ICollection<Autorizacion> Autorizaciones { get; set; }
         public InformacionPersonal? InformacionPersonal { get; set; }
+
+
+        public void OfuscarPassword()
+        {
+            Password = "******";
+        }
     }
 }

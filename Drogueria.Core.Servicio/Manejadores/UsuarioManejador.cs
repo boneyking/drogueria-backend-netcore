@@ -1,9 +1,11 @@
 ﻿using Drogueria.Core.Dominio.Entidades;
 using Drogueria.Core.Dominio.Interfaces.Repositorios;
 using Drogueria.Core.Infraestructura.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace Drogueria.Core.Servicio.Manejadores
 {
@@ -16,14 +18,14 @@ namespace Drogueria.Core.Servicio.Manejadores
             _usuarioRepositorio = usuarioRepositorio;
         }
 
-        public void ActualizarUsuario(Usuario usuario)
+        public async Task ActualizarUsuario(Usuario usuario)
         {
-            _usuarioRepositorio.Actualizar(usuario);
+            await _usuarioRepositorio.Actualizar(usuario);
         }
 
-        public void CrearUsuario(Usuario usuario)
+        public async Task CrearUsuario(Usuario usuario)
         {
-            _usuarioRepositorio.Crear(usuario);
+            await _usuarioRepositorio.Crear(usuario);
         }
 
         public void Dispose()
@@ -31,31 +33,36 @@ namespace Drogueria.Core.Servicio.Manejadores
             return;
         }
 
-        public bool ExisteUsuarioPorRut(string rut)
+        public async Task<bool> ExisteUsuarioPorRut(string rut)
         {
-            var usuario = _usuarioRepositorio.ObtenerPor(x => x.Rut.ToUpper().Trim() == rut.ToUpper().Trim()).FirstOrDefault();
+            var usuario = await _usuarioRepositorio
+                        .ObtenerPor(x => x.Rut.ToUpper().Trim() == rut.ToUpper().Trim())
+                        .Result
+                        .FirstOrDefaultAsync();
             if (usuario != null)
                 return true;
             return false;
         }
 
-        public Usuario ObtenerPorId(Guid id)
+        public async Task<Usuario> ObtenerPorId(Guid id)
         {
-            var usuario = _usuarioRepositorio.ObtenerPor(x => x.Id == id).FirstOrDefault();
-            usuario.Password = "******";
+            var usuario = await _usuarioRepositorio.ObtenerPor(x => x.Id == id).Result.FirstOrDefaultAsync();
+            if (usuario != null)
+                usuario.OfuscarPassword();
             return usuario;
         }
 
-        public Usuario ObtenerPorRut(string rut)
+        public async Task<Usuario> ObtenerPorRut(string rut)
         {
-            var usuario = _usuarioRepositorio.ObtenerPor(x => x.Rut.ToUpper().Trim() == rut.ToUpper().Trim()).FirstOrDefault();
-            usuario.Password = "******";
+            var usuario = await _usuarioRepositorio.ObtenerPor(x => x.Rut.ToUpper().Trim() == rut.ToUpper().Trim()).Result.FirstOrDefaultAsync();
+            if (usuario != null)
+                usuario.OfuscarPassword();
             return usuario;
         }
 
-        public IList<Usuario> ObtenerUsuarios()
+        public async Task<IList<Usuario>> ObtenerUsuarios()
         {
-            return _usuarioRepositorio.ObtenerTodo().ToList();
+            return await _usuarioRepositorio.ObtenerTodo().Result.ToListAsync();
         }
     }
 }

@@ -1,16 +1,17 @@
 ﻿using Drogueria.Core.Dominio.Entidades;
 using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace Drogueria.Core.Dominio.Interfaces.Repositorios
 {
     public interface IUsuario
     {
-        Usuario ObtenerPorId(Guid id);
-        Usuario ObtenerPorRut(string rut);
-        bool ExisteUsuarioPorRut(string rut);
-        void CrearUsuario(Usuario usuario);
-        void ActualizarUsuario(Usuario usuario);
-        IList<Usuario> ObtenerUsuarios();
+        Task<Usuario> ObtenerPorId(Guid id);
+        Task<Usuario> ObtenerPorRut(string rut);
+        Task<bool> ExisteUsuarioPorRut(string rut);
+        Task CrearUsuario(Usuario usuario);
+        Task ActualizarUsuario(Usuario usuario);
+        Task<IList<Usuario>> ObtenerUsuarios();
     }
 }
