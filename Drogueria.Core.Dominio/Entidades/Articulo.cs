@@ -14,5 +14,16 @@ namespace Drogueria.Core.Dominio.Entidades
         public Guid ResponsableId { get; set; }
         public DateTime FechaCreacion { get; set; }
         public DateTime FechaModificacion { get; set; }
+
+        public Articulo()
+        {
+            Arsenal = new Arsenal();
+            CodigoBarra = string.Empty;
+            Lotes = new List<Lote>();
+            Activo = true;
+            ResponsableId = Guid.NewGuid();
+            FechaCreacion = DateTime.UtcNow;
+            FechaModificacion = DateTime.UtcNow;
+        }
     }
 }

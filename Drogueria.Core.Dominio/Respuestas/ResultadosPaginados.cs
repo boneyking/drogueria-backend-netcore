@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Drogueria.Core.Dominio.Respuestas
+﻿namespace Drogueria.Core.Dominio.Respuestas
 {
     public class ResultadosPaginados
     {

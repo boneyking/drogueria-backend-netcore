@@ -6,7 +6,6 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Drogueria.Core.Servicio.Manejadores
@@ -18,6 +17,16 @@ namespace Drogueria.Core.Servicio.Manejadores
         public ProveedorManejador(IRepositorio<Proveedor> proveedorRepositorio)
         {
             _proveedorRepositorio = proveedorRepositorio;
+        }
+
+        public async Task ActualizarProveedor(Proveedor proveedor)
+        {
+            await _proveedorRepositorio.Actualizar(proveedor);
+        }
+
+        public async Task CrearProveedor(Proveedor proveedor)
+        {
+            await _proveedorRepositorio.Crear(proveedor);
         }
 
         public void Dispose()
