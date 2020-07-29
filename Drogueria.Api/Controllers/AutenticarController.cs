@@ -1,10 +1,14 @@
 ﻿using System;
+using System.IdentityModel.Tokens.Jwt;
+using System.Threading.Tasks;
 using Drogueria.Api.Requests;
 using Drogueria.Core.Dominio.Entidades;
 using Drogueria.Core.Dominio.Interfaces.Repositorios;
 using Drogueria.Core.Infraestructura.Repositorios;
+using Drogueria.Core.Infraestructura.Utilidades;
 using Drogueria.Core.Servicio.Manejadores;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
 namespace Drogueria.Api.Controllers
@@ -16,34 +20,36 @@ namespace Drogueria.Api.Controllers
     {
         private readonly ILogger<AutenticarController> _logger;
         private IAutenticar _autenticar;
-        public AutenticarController(ILogger<AutenticarController> logger)
+        private readonly IConfiguration _configuration;
+        public AutenticarController(ILogger<AutenticarController> logger, IConfiguration configuration)
         {
             _logger = logger;
             _autenticar = new AutenticarManejador(new Repositorio<Usuario>());
-        }
-
-        [HttpGet]
-        [Route("Hola")]
-        public string Hola()
-        {
-            return "Hola";
+            _configuration = configuration;
         }
 
         [HttpPost]
         [Route("LoginUsuario")]
-        public IActionResult AutenticarUsuario([FromBody]LoginRequest login)
+        public async Task<IActionResult> AutenticarUsuario([FromBody] LoginRequest login)
         {
             _logger.LogInformation("Logueando");
             try
             {
-                var usuario = _autenticar.AutenticarUsuario(login.Rut, login.Password);
-                return Ok(usuario);
+                var usuario = await _autenticar.AutenticarUsuario(login.Rut, login.Password);
+
+                var token = Token.CrearToken(usuario, _configuration["JWT:Secret"]);
+
+                return Ok(new
+                {
+                    token = new JwtSecurityTokenHandler().WriteToken(token),
+                    expiration = token.ValidTo
+                });
             }
             catch (Exception ex)
             {
-                return BadRequest(ex.Message);
+                return Unauthorized(ex.Message);
             }
-            
+
         }
     }
 }

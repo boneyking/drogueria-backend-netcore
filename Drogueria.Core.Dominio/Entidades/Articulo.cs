@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
 
 namespace Drogueria.Core.Dominio.Entidades
 {
@@ -24,6 +25,11 @@ namespace Drogueria.Core.Dominio.Entidades
             ResponsableId = Guid.NewGuid();
             FechaCreacion = DateTime.UtcNow;
             FechaModificacion = DateTime.UtcNow;
+        }
+
+        public long ObtenerStockActualArticulo()
+        {
+            return Lotes.Sum(x => x.Cantidad);
         }
     }
 }

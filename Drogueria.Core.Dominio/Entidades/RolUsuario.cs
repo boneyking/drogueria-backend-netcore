@@ -4,7 +4,11 @@ namespace Drogueria.Core.Dominio.Entidades
 {
     public enum Rol
     {
-        Administrador
+        Administrador,
+        Quimico,
+        JefeBodega,
+        Bodeguero,
+        Despacho
     }
     public class RolUsuario : BaseId
     {

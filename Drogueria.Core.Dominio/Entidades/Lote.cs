@@ -10,9 +10,17 @@ namespace Drogueria.Core.Dominio.Entidades
         [ForeignKey("Usuario")]
         public Guid ResponsableId { get; set; }
         public double ValorUnitario { get; set; }
-        public double CantidadEntrada { get; set; }
-        public double CantidadSalida { get; set; }
-        [DatabaseGenerated(DatabaseGeneratedOption.Computed)]
-        public double Stock => CantidadEntrada - CantidadSalida;
+        public long Cantidad { get; set; }
+
+        public Lote()
+        {
+            Identificador = string.Empty;
+            FechaVencimiento = DateTime.UtcNow;
+            ResponsableId = Guid.NewGuid();
+            ValorUnitario = 0;
+            Cantidad = 0;
+        }
+
+
     }
 }

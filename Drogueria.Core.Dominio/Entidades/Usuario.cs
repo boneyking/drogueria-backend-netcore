@@ -15,6 +15,16 @@ namespace Drogueria.Core.Dominio.Entidades
         public ICollection<Autorizacion> Autorizaciones { get; set; }
         public InformacionPersonal? InformacionPersonal { get; set; }
 
+        public Usuario()
+        {
+            Rut = string.Empty;
+            Password = string.Empty;
+            Roles = new List<RolUsuario>();
+            Autorizaciones = new List<Autorizacion>();
+            InformacionPersonal = new InformacionPersonal();
+
+        }
+
 
         public void OfuscarPassword()
         {

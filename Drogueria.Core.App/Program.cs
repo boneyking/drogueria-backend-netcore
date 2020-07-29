@@ -26,24 +26,26 @@ namespace Drogueria.Core.App
             {
                 return autenticarManejador.AutenticarUsuario("15789559-1", "123456").GetAwaiter().GetResult();
             });
-            
+
+            Console.WriteLine("Usuario {0} - {1}", usuario.Result, DateTime.Now.ToLongTimeString());
 
 
 
-            var proveedorManejador = new ProveedorManejador(new Repositorio<Proveedor>());
-            Console.WriteLine("Proveedores {0}", DateTime.Now.ToLongTimeString());
-            var proveedores = Task.Run(() => {
-                return proveedorManejador.ObtenerTodosLosProveedores().GetAwaiter().GetResult();
-            });
 
-            Console.WriteLine(usuario.Result.Rut);
-            Console.WriteLine("Fin usuario {0}", DateTime.Now.ToLongTimeString());
-            foreach (var item in proveedores.Result)
-            {
-                Console.WriteLine(item.Nombre);
-            }
+            //var proveedorManejador = new ProveedorManejador(new Repositorio<Proveedor>());
+            //Console.WriteLine("Proveedores {0}", DateTime.Now.ToLongTimeString());
+            //var proveedores = Task.Run(() => {
+            //    return proveedorManejador.ObtenerTodosLosProveedores().GetAwaiter().GetResult();
+            //});
 
-            Console.WriteLine("Fin Proveedores {0}", DateTime.Now.ToLongTimeString());
+            //Console.WriteLine(usuario.Result.Rut);
+            //Console.WriteLine("Fin usuario {0}", DateTime.Now.ToLongTimeString());
+            //foreach (var item in proveedores.Result)
+            //{
+            //    Console.WriteLine(item.Nombre);
+            //}
+
+            //Console.WriteLine("Fin Proveedores {0}", DateTime.Now.ToLongTimeString());
 
             //var resultadosPaginados = new ResultadosPaginados();
             //resultadosPaginados.CantidadResultados = 6;

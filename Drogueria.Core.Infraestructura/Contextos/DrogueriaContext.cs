@@ -21,6 +21,8 @@ namespace Drogueria.Core.Infraestructura.Contextos
         public DbSet<Proveedor> Proveedor { get; set; }
         public DbSet<Articulo> Articulo { get; set; }
         public DbSet<Lote> Lote { get; set; }
+        public DbSet<Inventario> Inventario { get; set; }
+        public DbSet<Movimiento> Movimientos { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -32,12 +34,16 @@ namespace Drogueria.Core.Infraestructura.Contextos
             modelBuilder.Entity<Proveedor>().ToTable("Proveedores");
             modelBuilder.Entity<Articulo>().ToTable("Articulos");
             modelBuilder.Entity<Lote>().ToTable("Lotes");
+            modelBuilder.Entity<Inventario>().ToTable("Inventario");
+            modelBuilder.Entity<Movimiento>().ToTable("Movimientos");
 
             var usuarioAdministrador = CrearUsuarioAdministrador();
+            var arsenales = CrearArsenales(usuarioAdministrador);
 
             modelBuilder.Entity<Usuario>().HasData(usuarioAdministrador);
             modelBuilder.Entity<Proveedor>().HasData(CrearProveedores(usuarioAdministrador));
-            modelBuilder.Entity<Arsenal>().HasData(CrearArsenales(usuarioAdministrador));
+            modelBuilder.Entity<Arsenal>().HasData(arsenales);
+            modelBuilder.Entity<Inventario>().HasData(CrearInventarioInicial(usuarioAdministrador, arsenales));
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -132,6 +138,25 @@ namespace Drogueria.Core.Infraestructura.Contextos
                 });
             }
             return arsenales;
+        }
+
+        public List<Inventario> CrearInventarioInicial(Usuario responsable, List<Arsenal> arsenales)
+        {
+            var inventario = new List<Inventario>();
+
+            foreach (var arsenal in arsenales)
+            {
+                inventario.Add(new Inventario
+                {
+                    Id = Guid.NewGuid(),
+                    ArsenalId = arsenal.Id,
+                    ResponsableId = responsable.Id,
+                    StockActual = 0,
+                    TipoMovimiento = TipoMovimiento.Ingreso,
+                    UltimaModificacion = DateTime.UtcNow
+                });
+            }
+            return inventario;
         }
 
     }
